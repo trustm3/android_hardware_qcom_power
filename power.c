@@ -34,7 +34,7 @@
 #define STATE_HDR_OFF "state=3"
 
 #define MAX_LENGTH         50
-#define BOOST_SOCKET       "/dev/socket/pb"
+#define BOOST_SOCKET       "/data/trustme-com/power/pb"
 
 static int client_sockfd;
 static struct sockaddr_un client_addr;
